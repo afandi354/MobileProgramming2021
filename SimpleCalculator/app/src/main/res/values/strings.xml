@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Simple Calculator</string>
+    <string name="aplikasi_kalkulator">Aplikasi Kalkulator</string>
+    <string name="masukan_angka_1">Masukan Angka 1</string>
+    <string name="masukan_angka_2">Masukan Angka 2</string>
+    <string name="plus">+</string>
+    <string name="min">-</string>
+    <string name="kali">x</string>
+    <string name="bagi">/</string>
+    <string name="clear">Clear</string>
+    <string name="hasil">Hasil</string>
+    <string name="nol">0</string>
+</resources>
