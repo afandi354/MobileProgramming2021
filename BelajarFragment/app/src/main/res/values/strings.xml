@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Belajar Fragment</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_fragment">Ini adalah home fragment</string>
+    <string name="to_category_fragment">Category Fragment</string>
+    <string name="category_fragment">Ini adalah category fragment</string>
+    <string name="to_detail_category_fragment">Detail Category Fragment</string>
+    <string name="detail_category_fragment">Ini adalah Detail Category Fragment</string>
+    <string name="show_dialog">tampilkan dialog</string>
+    <string name="pertanyaan">Siapa pelatih yang cocok menggantikan Ole di MU ?</string>
+    <string name="brendan_rodgers">Brendan Rodgers</string>
+    <string name="mouricio_pochettino">Mouricio Pochettino</string>
+    <string name="ralf_rangnick">Ralf Rangnick</string>
+    <string name="erik_ten_hag">Erik Ten Hag</string>
+    <string name="tutup">Tutup</string>
+    <string name="pilih">Pilih</string>
+</resources>

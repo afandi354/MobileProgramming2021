@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyRandomQuotes</string>
+
+    <string name="quote">No one can win every battle, but no man should fall without a struggle</string>
+    <string name="author">- Peter Parker</string>
+    <string name="show_list_quotes">Daftar Quote</string>
+</resources>
